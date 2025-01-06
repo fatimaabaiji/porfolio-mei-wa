@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'poppins', sans-serif;
+    background-color: #a4c2d1;
+}
+
+h1, h2{
+    font-family: "DM Serif Diplay", serif;
+    color:#184f63;
+}
+/*about section*/
+#about{
+    background-color: white;
+}
+/*portfolio section*/
+#portfolio{
+    background-color: #dbdcde;
+}
+/* contact section*/
+
+#contact{
+    background-color: white;
+}
+#hero{
+    background-color: dbdcde;
+    background-image:url("/assets/images/background.webp");
+    background-size: cover;
+    background-position: 50% 70%;
+    min-height:500px;
+    padding:5% 7%;
+}
